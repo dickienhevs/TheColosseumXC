@@ -1,0 +1,8 @@
+E:\Documents\Visual Studio 2017\Classrooms\Colosseum\Colosseum\Colosseum.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+E:\Documents\Visual Studio 2017\Classrooms\Colosseum\Colosseum\Colosseum.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+E:\Documents\Visual Studio 2017\Classrooms\Colosseum\Colosseum\Colosseum.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+E:\Documents\Visual Studio 2017\Classrooms\Colosseum\Colosseum\Colosseum.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+E:\Documents\Visual Studio 2017\Classrooms\Colosseum\Colosseum\Colosseum.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+E:\Documents\Visual Studio 2017\Classrooms\Colosseum\Colosseum\Colosseum.iOS\obj\iPhoneSimulator\Debug\optimized\
+E:\Documents\Visual Studio 2017\Classrooms\Colosseum\Colosseum\Colosseum.iOS\obj\iPhoneSimulator\Debug\Colosseum.iOS.csproj.CoreCompileInputs.cache
+E:\Documents\Visual Studio 2017\Classrooms\Colosseum\Colosseum\Colosseum.iOS\obj\iPhoneSimulator\Debug\Colosseum.iOS.csprojAssemblyReference.cache

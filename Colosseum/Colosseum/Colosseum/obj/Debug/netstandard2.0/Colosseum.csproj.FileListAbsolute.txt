@@ -1,0 +1,11 @@
+E:\Documents\Visual Studio 2017\Classrooms\Colosseum\Colosseum\Colosseum\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Documents\Visual Studio 2017\Classrooms\Colosseum\Colosseum\Colosseum\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+E:\Documents\Visual Studio 2017\Classrooms\Colosseum\Colosseum\Colosseum\obj\Debug\netstandard2.0\LatestMoviesPage.xaml.g.cs
+E:\Documents\Visual Studio 2017\Classrooms\Colosseum\Colosseum\Colosseum\obj\Debug\netstandard2.0\NowPlayingMoviesPage.xaml.g.cs
+E:\Documents\Visual Studio 2017\Classrooms\Colosseum\Colosseum\Colosseum\obj\Debug\netstandard2.0\UpComingMoviesPage.xaml.g.cs
+E:\Documents\Visual Studio 2017\Classrooms\Colosseum\Colosseum\Colosseum\obj\Debug\netstandard2.0\Colosseum.csproj.CoreCompileInputs.cache
+E:\Documents\Visual Studio 2017\Classrooms\Colosseum\Colosseum\Colosseum\obj\Debug\netstandard2.0\Colosseum.AssemblyInfoInputs.cache
+E:\Documents\Visual Studio 2017\Classrooms\Colosseum\Colosseum\Colosseum\obj\Debug\netstandard2.0\Colosseum.AssemblyInfo.cs
+E:\Documents\Visual Studio 2017\Classrooms\Colosseum\Colosseum\Colosseum\obj\Debug\netstandard2.0\Colosseum.dll
+E:\Documents\Visual Studio 2017\Classrooms\Colosseum\Colosseum\Colosseum\obj\Debug\netstandard2.0\Colosseum.pdb
+E:\Documents\Visual Studio 2017\Classrooms\Colosseum\Colosseum\Colosseum\obj\Debug\netstandard2.0\Colosseum.csprojAssemblyReference.cache
